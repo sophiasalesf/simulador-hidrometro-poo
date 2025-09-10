@@ -29,5 +29,8 @@ g++ -std=c++14 -I . .\Entrada.cpp .\Medicao.cpp .\Hidrometro.cpp .\Display.cpp .
 ## Exemplo de saída no terminal
 <img width="683" height="459" alt="image" src="https://github.com/user-attachments/assets/86b4c379-6326-403c-a7dd-3170fb310abf" />
 
+## Exemplo de arquivo .TXT gerado
+<img width="284" height="215" alt="image" src="https://github.com/user-attachments/assets/fac033b6-3d93-4072-b802-7c69d0051691" />
+
 ## Desenvolvedora
 Sophia Sales (IFPB - Engenharia de Computação) (https://github.com/Sophia7b)  
