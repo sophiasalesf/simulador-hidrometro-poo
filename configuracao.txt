@@ -1,0 +1,6 @@
+tfsSeg=15
+vamLpm=12.0
+deltaTseg=0.1
+larguraPx=800
+alturaPx=800
+dirSaida=./out
